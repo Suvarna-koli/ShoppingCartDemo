@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+F:\DT Git Demo\ShoppingDemo\.metadata\.plugins\org.eclipse.jdt.core
+4027728687.index
