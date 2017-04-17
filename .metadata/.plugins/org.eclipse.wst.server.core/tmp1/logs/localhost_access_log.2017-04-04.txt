@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Apr/2017:14:23:24 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:23:33 +0530] "GET /shoppingCartFrontEnd/WEB-INF/views/Login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:29:45 +0530] "GET /shoppingCartFrontEnd/WEB-INF/views/Login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:37:08 +0530] "GET /shoppingCartFrontEnd/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:38:17 +0530] "GET /shoppingCartFrontEnd/ HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:38:38 +0530] "GET /shoppingCartFrontEnd/ HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:38:39 +0530] "GET /shoppingCartFrontEnd/ HTTP/1.1" 200 66
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:43:59 +0530] "GET /shoppingCartFrontEnd/index.jsp HTTP/1.1" 200 57
+127.0.0.1 - - [04/Apr/2017:14:56:53 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:14:56:58 +0530] "GET /shoppingCartFrontEnd/WEB-INF/views/Login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [04/Apr/2017:15:17:28 +0530] "GET /shoppingCartFrontEnd/WEB-INF/classes/com/niit/Controller/HomeController.java HTTP/1.1" 404 992

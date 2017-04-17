@@ -1,0 +1,17 @@
+package shoppingcartf;
+
+public class HomeController {
+	//@controller
+	public static void main(String arg[])
+	{
+		//whenever the user opn our website it shld navigate to home page
+		//http://localhost:8080/shoppingcart/
+		
+//		@RequestMapping("/")
+		
+		 String goToHomePage()
+		{
+			return "Home";
+		}
+	}
+}

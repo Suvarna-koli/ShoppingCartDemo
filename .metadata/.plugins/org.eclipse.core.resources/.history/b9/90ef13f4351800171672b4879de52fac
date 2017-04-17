@@ -1,0 +1,27 @@
+package com.niit.controller;
+import javax.xml.ws.RequestWrapper;
+
+//import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.stereotype.Controller;
+@Controller
+public class HomeController {
+/*
+	public static String main(String arg[])
+	{
+		//whenever the user opn our website it shld navigate to home page
+				*/
+	@RequestWrapper
+		///http://localhost:8080/shoppingcart/
+@RequestMapping("/LoginPage")
+		public String LoginPage()
+		{
+			return "Home";
+		}
+	@RequestMapping("/RegistrationPage")
+		public String RegistrationPage()
+		
+		{
+			return "Login";
+		}
+	
+}

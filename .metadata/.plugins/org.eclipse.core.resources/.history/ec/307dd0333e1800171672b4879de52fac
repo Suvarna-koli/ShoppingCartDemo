@@ -1,0 +1,39 @@
+package com.niit.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+
+@Controller
+public class HomeController {
+	/*
+	 * public static String main(String arg[]) { //whenever the user opn our
+	 * website it shld navigate to home page
+	 */
+
+	/// http://localhost:8080/shoppingcart/
+	@RequestMapping("/")
+	public String goToHomePage(Model model) {
+		model.addAttribute("message", "Thankew for visiting shopping cart ");
+		return "Home";
+	}
+
+	@RequestMapping("/LoginPage")
+	public String LoginPage(Model model) {
+		model.addAttribute("isUserClickLogin","true");
+	System.out.println("user clicked login page");
+		return "Login";
+	}
+
+	@RequestMapping("/RegistrationPage")
+	public String RegistrationPage(Model model)
+
+	{
+		model.addAttribute("isUserClickRegister","true");
+		System.out.println("user clicked in register page");
+		return "Registration";
+	}
+
+}

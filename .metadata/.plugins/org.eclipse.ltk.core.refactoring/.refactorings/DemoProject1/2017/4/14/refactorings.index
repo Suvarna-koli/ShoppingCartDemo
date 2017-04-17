@@ -1,0 +1,4 @@
+1491214288169	Move 'Home.jsp' to 'webapp'
+1491214412083	Move 2 resources to 'views'
+1491215314590	Rename resource 'dispatcherservlet.xml'
+1491215561264	Move 'niit' to 'com'

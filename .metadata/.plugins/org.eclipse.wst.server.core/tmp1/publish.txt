@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Apr 05 11:47:27 IST 2017
+org.eclipse.jst.j2ee.server\:/binary\:F\:\\DT\ Git\ Demo\\ShoppingDemo\\shoppingCartFrontEnd\\target\\shoppingCartFrontEnd\\WEB-INF\\lib\\spring-web-4.3.0.RELEASE.jar=shoppingCartFrontEnd/WEB-INF/lib/spring-web-4.3.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:F\:\\DT\ Git\ Demo\\ShoppingDemo\\shoppingCartFrontEnd\\target\\shoppingCartFrontEnd.war=shoppingCartFrontEnd.war
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\INTEL\\.m2\\repository\\org\\springframework\\spring-web\\4.3.0.RELEASE\\spring-web-4.3.0.RELEASE.jar=WEB-INF/lib/spring-web-4.3.0.RELEASE.jar

@@ -1,0 +1,18 @@
+package com.niit.controller;
+
+
+public class HomeController {
+	@Con
+	public static void main(String arg[])
+	{
+		//whenever the user opn our website it shld navigate to home page
+		//http://localhost:8080/shoppingcart/
+		
+//		@RequestMapping("/")
+		
+		public String goToHomePage()
+		{
+			return "Home";
+		}
+	}
+}
