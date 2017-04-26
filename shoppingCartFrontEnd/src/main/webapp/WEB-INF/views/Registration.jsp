@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is registration page
+I am in registration page
 </body>
 </html>

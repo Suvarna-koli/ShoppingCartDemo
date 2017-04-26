@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="LoginPage">
+<form action="/login">
 
 
 
@@ -29,11 +29,10 @@ Email Id:</td>
 
 </td></tr>
 
-
-
 </table>
 
 </form>
  This is login page
 </body>
 </html>
+

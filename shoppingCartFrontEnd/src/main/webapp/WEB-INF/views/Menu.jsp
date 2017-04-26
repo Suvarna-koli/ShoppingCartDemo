@@ -8,5 +8,16 @@
 </head>
 <body>
 
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<ul class ="nav navbar-nav">
+
+
+<c:forEach var="category" items="categorylist">
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">${category.name}
+</a>
+</ul>
+</c:forEach>
+</div>
 </body>
 </html>
